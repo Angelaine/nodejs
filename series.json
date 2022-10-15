@@ -1,0 +1,22 @@
+{
+   "series1" : {
+      "title" : "Riverdale",
+      "seasons" : "6",
+      "genre" : "Mysteries",
+      "id": 1
+   },
+   
+   "series2" : {
+      "name" : "Stranger Things",
+      "seasons" : "4",
+      "genre" : "Teen",
+      "id": 2
+   },
+   
+   "series3" : {
+      "name" : "The Umbrella Academy",
+      "seasons" : "3",
+      "genre" : "Sci-Fi",
+      "id": 3
+   }
+}
